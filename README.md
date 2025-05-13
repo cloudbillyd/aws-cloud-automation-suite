@@ -40,7 +40,7 @@ Enterprise-grade AWS management with built-in analytics, anomaly detection, and 
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/aws-cloud-automation.git
+git clone https://github.com/cloudbillyd/aws-cloud-automation.git
 cd aws-cloud-automation
 
 # Set up virtual environment
